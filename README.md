@@ -40,5 +40,5 @@ A business analyst or sales manager can use this dashboard to:
 - Spot **peak sales days** to plan promotions.  
 - Monitor **customer satisfaction** through ratings.
 
-6. Screenshots/ Demos
-Show what the dashboard look like - ![Alt text](https://github.com/OmkarRaut310/Mobile-Sales-Dashboard/blob/main/Screenshot%202026-08-29%20141008.png)
+6. Screenshots
+Show what the dashboard look like - ![Alt text](https://github.com/OmkarRaut310/Mobile-Sales-Dashboard/blob/main/images.png)
