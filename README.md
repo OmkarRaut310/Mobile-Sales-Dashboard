@@ -41,4 +41,4 @@ A business analyst or sales manager can use this dashboard to:
 - Monitor **customer satisfaction** through ratings.
 
 6. Screenshots/ Demos
-
+Show what the dashboard look like - ![Alt text](https://github.com/OmkarRaut310/Mobile-Sales-Dashboard/blob/main/Screenshot%202026-08-29%20141008.png)
